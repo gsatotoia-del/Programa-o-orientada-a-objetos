@@ -1,4 +1,3 @@
-# Programa-o-orientada-a-objetos
 Questão 2 — TAD Fração
 
 Aqui foi desenvolvido um TAD para representar e manipular números fracionários.
@@ -27,3 +26,5 @@ Busca por valores
   Como executar:
 g++ lista.cpp -o lista
 ./lista
+
+
